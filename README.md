@@ -28,13 +28,7 @@ from mentors in their project like how to proceed ,what knowledge is needed ,wha
   alt="Login page"
   title="Login page Go project"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  <img
-  src="https://res.cloudinary.com/jayu/image/upload/v1660759828/Screenshot_from_2022-08-17_23-21-58_gvvxmq.png"
-  alt="Login page"
-  title="Login page Go project"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
+
   <img
   src="https://res.cloudinary.com/jayu/image/upload/v1660759828/Screenshot_from_2022-08-17_23-22-17_qwolfj.png"
   alt="Login page"
@@ -45,7 +39,7 @@ from mentors in their project like how to proceed ,what knowledge is needed ,wha
 ## To Run Project:
 
 ### cloning directory:
-```git clone https://github.com/Jayantkhandebharad/Go_project1.1.git```
+```git clone https://github.com/shruteekadam07/GO-Project.git```
 
 ### moving inside directory:
 ```cd Go_project1.1```
