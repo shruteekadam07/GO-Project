@@ -15,25 +15,7 @@ so the information of their contribution in open source , free software or techn
 from mentors in their project like how to proceed ,what knowledge is needed ,what skillsets are required if you're working on specific idea
 
 
-### Screenshots:
 
-<img
-  src="https://res.cloudinary.com/jayu/image/upload/v1660759828/Screenshot_from_2022-08-17_23-20-50_e2ztok.png"
-  alt="Login page"
-  title="Login page Go project"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  <img
-  src="https://res.cloudinary.com/jayu/image/upload/v1660759828/Screenshot_from_2022-08-17_23-21-24_caraoa.png"
-  alt="Login page"
-  title="Login page Go project"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
-  <img
-  src="https://res.cloudinary.com/jayu/image/upload/v1660759828/Screenshot_from_2022-08-17_23-22-17_qwolfj.png"
-  alt="Login page"
-  title="Login page Go project"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 ## To Run Project:
